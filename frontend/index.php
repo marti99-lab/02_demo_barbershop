@@ -64,7 +64,7 @@ session_start();
   </div>
 </section>
   <footer>
-    <p>&copy; 2024 Martin Rübner. All rights reserved. <a href="image-license.php" target="_blank" style="font-size: 0.9em;">Image License here.</a></p>
+    <p>&copy; 2024 marti99-lab. All rights reserved. <a href="image-license.php" target="_blank" style="font-size: 0.9em;">Image License here.</a></p>
   </footer>
 </body>
 </html>
